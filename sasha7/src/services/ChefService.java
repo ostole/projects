@@ -1,4 +1,4 @@
 package services;
 
-public class ChefService {
+public interface ChefService {
 }

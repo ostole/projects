@@ -1,4 +1,4 @@
 package services;
 
-public class OrderService {
+public interface OrderService {
 }

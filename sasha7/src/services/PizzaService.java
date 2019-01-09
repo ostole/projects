@@ -1,4 +1,4 @@
 package services;
 
-public class PizzaService {
+public interface PizzaService {
 }

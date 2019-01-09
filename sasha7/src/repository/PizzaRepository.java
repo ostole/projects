@@ -1,4 +1,4 @@
 package repository;
 
-public class PizzaRepository {
+public interface PizzaRepository {
 }
